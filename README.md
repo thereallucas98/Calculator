@@ -10,7 +10,7 @@ Projeto utilizando a tecnologia React-Native para simular uma calculadora.
  
 <h2 align="center"> 📷 Screenshot do projeto: </h2>
 <p align="center">
-<img width="600" src="/src/img/calculator.jpg">
+<img width="300" height="300" src="/src/img/calculator.jpg">
 </p>
 
 _________
